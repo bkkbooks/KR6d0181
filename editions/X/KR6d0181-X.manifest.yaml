@@ -1,0 +1,112 @@
+canonical_identifier: bkk:krp/KR6d0181/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0181/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛錍論釋文
+  identifiers:
+    krp: KR6d0181
+    cbeta: X56n0937
+    cbeta_old_id: X56n0937
+    authorityid: CA0001614
+    json_key: X0937
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0937.xml
+    old_id: X56n0937
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0181_000-X.yaml, hash: 'sha256:e922c32b61816a95cf5a645d471d110e9a26947126c007a0b54cd87c45a2bb1e'}
+  - {seq: 1, filename: KR6d0181_001-X.yaml, hash: 'sha256:8ab7f1f1adee544dfcea2aebb9f58152ed17ecc9ca26bea22ec498e7dbaa4183'}
+  - {seq: 2, filename: KR6d0181_002-X.yaml, hash: 'sha256:ceff03eabde0bbfe30612e2c2c86c42473d3ba030b67641a42e546197a70619b'}
+  - {seq: 3, filename: KR6d0181_003-X.yaml, hash: 'sha256:a1ae470e4060bfe6a488e479166ae1ec365d3ae4e10490062b59304ed994fa46'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0181_000-X.markers.yaml, hash: 'sha256:f75db3975835b9396644c0a68b239cb05137580352e3d600c72d0f0b0ac20e70'}
+  - {seq: 1, role: markers, filename: assets/KR6d0181_001-X.markers.yaml, hash: 'sha256:98a340047ae3ad5209edbff4e272e361eb84b55ec2576d4171055d01b5e7dfac'}
+  - {seq: 2, role: markers, filename: assets/KR6d0181_002-X.markers.yaml, hash: 'sha256:d507b73499f5703ad7f916bb6c9ed0e8dd7451c57ee16e10674d46ee5467b3e8'}
+  - {seq: 3, role: markers, filename: assets/KR6d0181_003-X.markers.yaml, hash: 'sha256:1491a42735ce1be441a49dc1bec0da6a5580a499e854e4fdd5668a5c2ae65475'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0181_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 12335
+  label: 金剛錍釋文卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0181_X_001-mulu-1
+    span:
+    - body
+    - 28
+    - 28
+  label: 卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0181_X_001-mulu-2
+    span:
+    - body
+    - 12185
+    - 12185
+  label: No. 937-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0181_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 12867
+  label: 金剛錍釋文卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0181_X_002-mulu-1
+    span:
+    - body
+    - 28
+    - 28
+  label: 卷中
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0181_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 12992
+  label: 金剛錍釋文卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0181_X_003-mulu-1
+    span:
+    - body
+    - 30
+    - 30
+  label: 卷下
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0181_X_003-mulu-2
+    span:
+    - body
+    - 12808
+    - 12808
+  label: No. 937-B
+  type: mulu
+  level: 1
+hash: sha256:2392e00878d3b7bd1876f183e4b8c385ba39759400bc89e593e57239072bbe0b

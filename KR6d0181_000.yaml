@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0181/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛錍論釋文
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0937.xml
+    old_id: X56n0937
+hash: sha256:e922c32b61816a95cf5a645d471d110e9a26947126c007a0b54cd87c45a2bb1e
