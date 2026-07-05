@@ -22,13 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0181_000.yaml, hash: 'sha256:e922c32b61816a95cf5a645d471d110e9a26947126c007a0b54cd87c45a2bb1e'}
-  - {seq: 1, filename: KR6d0181_001.yaml, hash: 'sha256:e95dd899b9b1a0e24aaf17ba19b8a8897b93ce795ae37b33b60ffa34a0c05eed'}
-  - {seq: 2, filename: KR6d0181_002.yaml, hash: 'sha256:dcf644a9f6e58e53ca7411336e4dda668afcfbe39383be7d90633c898a88267a'}
-  - {seq: 3, filename: KR6d0181_003.yaml, hash: 'sha256:4eecc1f794b2521f47f2422f2e60c7f1a09ff08be2f3f95c2ecf777b044e9236'}
+  - {seq: 1, filename: KR6d0181_001.yaml, hash: 'sha256:8ab7f1f1adee544dfcea2aebb9f58152ed17ecc9ca26bea22ec498e7dbaa4183'}
+  - {seq: 2, filename: KR6d0181_002.yaml, hash: 'sha256:ceff03eabde0bbfe30612e2c2c86c42473d3ba030b67641a42e546197a70619b'}
+  - {seq: 3, filename: KR6d0181_003.yaml, hash: 'sha256:a1ae470e4060bfe6a488e479166ae1ec365d3ae4e10490062b59304ed994fa46'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0181_001.markers.yaml, hash: 'sha256:24d6b1e871d0bd9e533ecb8737a4a10aaef31fb5ffb5e353669053a5eeb71062'}
-  - {seq: 2, role: markers, filename: assets/KR6d0181_002.markers.yaml, hash: 'sha256:45a9ab19d1058aed50d26681a4635e269bd331725bc3d13a712737cb659ae2e3'}
-  - {seq: 3, role: markers, filename: assets/KR6d0181_003.markers.yaml, hash: 'sha256:e899b5f6dcceb5823e665cf88708f7d01c5f190233b35f00f79c6b97a5bc2766'}
+  - {seq: 0, role: markers, filename: assets/KR6d0181_000.markers.yaml, hash: 'sha256:f8c20531179bc7fbc0e7dc30f3eeebac0236f9911763dbdad2467b7671ca5a26'}
+  - {seq: 1, role: markers, filename: assets/KR6d0181_001.markers.yaml, hash: 'sha256:b51493e36d40807af2784414889ec964008b29c40a8eb1726f929b2f5230426c'}
+  - {seq: 2, role: markers, filename: assets/KR6d0181_002.markers.yaml, hash: 'sha256:7a88462fad29172c137cef0281934c5ca0129146ff709829cae03a13763d82d1'}
+  - {seq: 3, role: markers, filename: assets/KR6d0181_003.markers.yaml, hash: 'sha256:7f0a564c33ceca47994f17acc04a3719d5ff497721f6436ba8165e17aea8b15a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -110,7 +111,4 @@ table_of_contents:
   label: No. 937-B
   type: mulu
   level: 1
-hash: sha256:3e2eb205a592fe0dc18739f1986a12e92b768af50bde275aa859b68dfffea153
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:98ecb43b2d1bc46d15b2d551116b650e9253a7bc99826fac6592300b4e01bfb4
